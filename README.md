@@ -1,2 +1,2 @@
 # EstudosCSharpTS
-Local onde irei colocar estudos do CSharp, Pela empresa
+Local onde irei colocar estudos de CSharp. Praticando.
