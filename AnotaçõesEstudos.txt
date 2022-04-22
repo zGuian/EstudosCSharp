@@ -1,0 +1,20 @@
+Tipos Primitivos do C#
+
+int = Numero inteiros (sem ponto)
+float = numero com ponto (não declarar tudo float pois ira consumir mais memoria)
+char = letras (string são cadeias de char)
+
+Utilizamos parentes quando a função for um metodo.
+
+METODOS - 
+BYTE = 0 ate 255
+SBYTE = -128 ate 127 (recomendado quando for negativo)
+short = são 1Byte completo (equivalente a 32767 2byte CONTA NEGATIVO)
+ushort = são 2byte completo (equivalente a 65535 NÃO CONTA NEGATIVO)
+
+bool = numero logico (VERDADEIRO OU FALSO)
+float = numero real (utiliza 32byte 7 numero depois do ponto)
+double = numero real (utiliza 64byte, e 15 numero depois do ponto)
+decimal = numero real (utiliza 128byte e 28 numeros depois do ponto)
+
+
